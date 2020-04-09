@@ -1,0 +1,30 @@
+ply
+format ascii 1.0
+comment Created by Blender 2.81 (sub 16) - www.blender.org, source file: 'renderingtest05_airplane_another_scaledversion.blend'
+element vertex 12
+property float x
+property float y
+property float z
+element face 8
+property list uchar uint vertex_indices
+end_header
+-0.800000 -0.000000 -0.000000
+-0.000001 0.800000 -0.000001
+-0.662742 -0.800000 -0.000000
+-0.800000 -0.800000 -0.000000
+-0.800000 0.468629 0.000000
+0.000000 -0.800000 -0.000000
+0.662742 -0.800000 -0.000000
+0.800000 -0.000001 -0.000001
+0.477913 0.146540 0.307246
+0.250163 0.250162 0.524497
+0.800000 -0.800000 -0.000000
+-0.800000 0.800000 0.000000
+4 0 1 2 3
+3 4 1 0
+3 2 1 5
+3 5 1 6
+3 7 1 8
+3 8 1 9
+4 6 1 7 10
+3 1 4 11
