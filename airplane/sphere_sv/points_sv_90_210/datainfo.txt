@@ -1,0 +1,1 @@
+airplane1440  singleviewpoint position (x,y,z) : [-2.59807621e+00 -1.50000000e+00  1.83697020e-16]
